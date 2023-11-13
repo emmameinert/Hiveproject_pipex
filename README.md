@@ -1,6 +1,6 @@
 # Pipex
 
-Pipex is my first little unix project. It is a base for a bigger later project (minishell).
+Pipex is my first little unix project. It is a base for a bigger later project (minishell) of the 42 Curriculum at Hive Helsinki.
 It aims to imitate the behaviour of a pipe by a limited use of functions such as:
 open, close, read, write, malloc, free, perror, strerror, access, dup, dup2, execve, exit, fork, pipe, unlink, wait, waitpid.
 
